@@ -1,6 +1,5 @@
 # Tech Innovators Inc. Network Design - Group 6
-
-### Contributors: **Denver Hogan** and **Parker Crawford** 
+Contributors: **Denver Hogan** and **Parker Crawford** 
 
 ## Project Overview
 
