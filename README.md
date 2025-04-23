@@ -25,10 +25,3 @@ This project involves designing a network for **Tech Innovators Inc.**, which ha
 - **Network Segmentation**: Secure the wireless networks and ensure that devices across subnets can communicate with each other.
 
 - **IP Addressing**: Use the network ID assigned to Group 6 (128.3.0.0/17) and avoid IP address overlaps across subnets.
-
-## Next Steps
-
-- Create a detailed network diagram using Packet Tracer.
-- Configure subnetting and DHCP servers.
-- Ensure wireless networks are secured.
-- Test interconnectivity between devices across both buildings.
